@@ -5,6 +5,6 @@ Open Browser and Website
     Open Browser    ${url_data}    ${browsername_data}
     Maximize Browser Window
 
-Close Browser
+Close Browsers
     [Documentation]    This keyword is used to close the bowser
-    Close Window
+    Close All Browsers
